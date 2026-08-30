@@ -18,3 +18,9 @@ julia examples/differential_equations.jl
 ## License
 
 MIT License
+
+
+## Live Demo
+- **GitHub Pages:** [https://raphasha27.github.io/julia-scientific-computing](https://raphasha27.github.io/julia-scientific-computing)
+- **Docker Hub:** [docker pull raphasha27/julia-scientific-computing](https://hub.docker.com/r/raphasha27/julia-scientific-computing)
+
